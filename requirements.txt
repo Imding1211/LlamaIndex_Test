@@ -1,0 +1,4 @@
+llama-index-embeddings-langchain
+llama-index-llms-ollama
+langchain_community
+llama_index
